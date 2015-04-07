@@ -5,7 +5,7 @@ Franco Daniel Godoy. Curso K1051
 
 using namespace std;
 
-int main ();
+int main ()
 
 {
 	cout << "Hola Mundo. Mi nombre es Franco";
