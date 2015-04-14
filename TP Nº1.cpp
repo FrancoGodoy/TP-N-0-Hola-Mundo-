@@ -1,3 +1,7 @@
+/*Godoy Franco Daniel
+Curso: K1051
+14/04/2015*/
+
 #include <iostream>
 
 using namespace std;
